@@ -1,0 +1,14 @@
+
+
+.container {
+  margin: 3vh 5vw 3vh 5vw;
+}
+
+.container h1{
+  font-size: 18px;
+  margin-top: 5vh;
+  font-weight: bold;
+}
+.container p{
+  margin-top: 2vh;
+}
