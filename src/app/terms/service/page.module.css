@@ -1,0 +1,26 @@
+
+
+.container {
+  margin: 5vh 3vw 5vh 3vw;
+}
+
+.container h1{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.item {
+  margin-top: 3vh;
+
+}
+.item h3{
+  font-size: 16px;
+  font-weight: bold;
+}
+.item p{
+  margin-top: 1vh;
+  font-size: 14px;
+  line-height: 1.5;
+  white-space: pre-line;
+  word-break: keep-all;
+}
