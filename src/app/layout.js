@@ -15,6 +15,9 @@ const geistMono = localFont({
 export const metadata = {
   title: "모뉴",
   description: "모두의 뉴스, 모두의 소식 Monew",
+  verification: {
+    google: "p2zAYMp2XYcEROiRpLjeEfuVhR1ck5nvaG5WW_rjUQQ"
+  }
 };
 
 export default function RootLayout({ children }) {
